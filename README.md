@@ -1,7 +1,3 @@
-# imgShare
-#Hola somos hacker
-imgShare is a web application to share images, comments, and more.
-
 
 
 # Environment Variables
